@@ -1,0 +1,13 @@
+// instructions to give to the openai to create blog 
+
+1.write blog title about 
+2.Wrtie blog introcuction about 
+3. write advanatges of ..... and return the result in array structure 
+4. write disadvantages of ..... and return the result in array structure 
+
+//after gitteng results from openai start to search for video on youtube and scrape it and push to database 
+then push to database 
+
+// then go to amazon store search for 3 products that have most solds
+//collect data from amazon and add them to database 
+// push the product to blog post 
